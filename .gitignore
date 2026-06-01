@@ -12,12 +12,11 @@ obj/
 publish/
 
 ## Node / UI
-ui/node_modules/
-ui/dist/
+node_modules/
+dist/
 
 ## Env files
 .env
-ui/.env
 
 ## OS
 .DS_Store
