@@ -1,0 +1,24 @@
+## .NET
+bin/
+obj/
+*.user
+*.suo
+.vs/
+*.db
+*.db-shm
+*.db-wal
+
+## Publish
+publish/
+
+## Node / UI
+ui/node_modules/
+ui/dist/
+
+## Env files
+.env
+ui/.env
+
+## OS
+.DS_Store
+Thumbs.db

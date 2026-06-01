@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/task-1-backend/">
+    <Project Path="task-1-backend/Kallipr.Telemetry.Api/Kallipr.Telemetry.Api.csproj" />
+  </Folder>
+  <Folder Name="/task-1-tests/">
+    <Project Path="task-1-tests/Kallipr.Telemetry.Tests/Kallipr.Telemetry.Tests.csproj" />
+  </Folder>
+</Solution>
